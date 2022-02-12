@@ -42,4 +42,4 @@ rm libraries.zip natives.zip
 
 ### Step 3 - Move files to right directory
 
-(Add instructions here)
+Copy the folder just made into your versions directory.
